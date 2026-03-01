@@ -1,0 +1,51 @@
+# Mitakshara's SpelloFun - Word List
+# Format: word, category
+# Lines starting with # are ignored
+
+# Animals
+cat, Animals
+dog, Animals
+frog, Animals
+bird, Animals
+fish, Animals
+duck, Animals
+bear, Animals
+lion, Animals
+elephant, Animals
+rabbit, Animals
+
+# Food
+apple, Food
+cake, Food
+egg, Food
+milk, Food
+bread, Food
+grape, Food
+pizza, Food
+mango, Food
+rice, Food
+soup, Food
+
+# Nature
+sun, Nature
+rain, Nature
+snow, Nature
+tree, Nature
+star, Nature
+moon, Nature
+cloud, Nature
+wind, Nature
+river, Nature
+flower, Nature
+
+# School
+book, School
+desk, School
+pen, School
+ruler, School
+class, School
+chalk, School
+bag, School
+read, School
+write, School
+learn, School
